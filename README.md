@@ -19,12 +19,12 @@ https://github.com/ahewitt-glasswall<br/>
 I love problem solving, and when I'm not swearing at my PC because my lambda function won't deploy, or furiously debugging code at 2am, I wake up every day loving what I do.<br/>
 I have a real passion for JavaScript, Node, ES6 and React. I'd love to contribute to some open source projects where I can learn and collaborate on these!
 
-## Top 3 Projects I'm Involved in
+### Top 3 Projects I'm Involved in
 - [glasswall-react-app](https://github.com/filetrust/glasswall-react-app)
 - [glasswall frontend](https://github.com/filetrust/frontend)
 - [Rebuild API - Performance Testing](https://github.com/ahewitt-glasswall/mvp-rebuild-performance-tests)
 
-## My Links
+### My Links
 [LinkedIn](https://www.linkedin.com/in/ahewit/)<br/>
 [Twitter](https://twitter.com/Werzl)<br/>
 [Medium](https://medium.com/@ahewitt_89859)
