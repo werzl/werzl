@@ -21,6 +21,7 @@ I love problem solving, and when I'm not swearing at my PC because my lambda fun
 
 ### Currently Working On
 [Glasswall ICAP](https://github.com/filetrust/program-icap)
+[Glasswall ICAP Management UI](https://github.com/filetrust/icap-management-ui)
 
 ### Top 3 Projects I'm Involved in
 [glasswall-react-app](https://github.com/filetrust/glasswall-react-app)<br/>
