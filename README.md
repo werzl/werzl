@@ -20,7 +20,7 @@ https://github.com/ahewitt-glasswall<br/>
 I love problem solving, and when I'm not swearing at my PC because my lambda function won't deploy, or furiously debugging code at 2am, I wake up every day loving what I do. I have a real passion for JavaScript, Node, ES6 and React. I'd love to contribute to some open source projects where I can learn and collaborate on these!
 
 ### Currently Working On
-[Glasswall ICAP](https://github.com/filetrust/program-icap)
+[Glasswall ICAP](https://github.com/filetrust/program-icap)  
 [Glasswall ICAP Management UI](https://github.com/filetrust/icap-management-ui)
 
 ### Top 3 Projects I'm Involved in
