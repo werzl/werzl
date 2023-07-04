@@ -18,11 +18,11 @@ Hi! I'm Adam Hewitt. I'm A Bachelor of Computer Science, and Full-Stack Cloud De
 I love problem solving, and when I'm not swearing at my PC because my lambda function won't deploy, or furiously debugging code at 2am, I wake up every day loving what I do. I have a real passion for JavaScript, Node, ES6 and React. I'd love to contribute to some open source projects where I can learn and collaborate on these!
 
 ### Currently Working On
-<a href="https://docs.glasswall.com/v1/docs/about-cdrplatform-2-0" target="_blank">Glasswall CDR Platform</a>
+[Glasswall CDR Platform](https://docs.glasswall.com/v1/docs/about-cdrplatform-2-0)
 
-<a href="https://docs.glasswall.com/docs/about-constellations" target="_blank">Glasswall Constellations</a>
+[Glasswall Constellations](https://docs.glasswall.com/docs/about-constellations)
 
 ### My Links
-<a href="https://www.linkedin.com/in/ahewit/" target="_blank">LinkedIn</a><br/>
-<a href="https://twitter.com/Werzl" target="_blank">Twitter</a><br/>
-<a href="https://medium.com/@ahewitt_89859" target="_blank">Medium</a>
+[LinkedIn](https://www.linkedin.com/in/ahewit/)<br/>
+[Twitter](https://twitter.com/Werzl)<br/>
+[Medium](https://medium.com/@ahewitt_89859)
