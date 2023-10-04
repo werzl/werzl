@@ -20,7 +20,7 @@ I love problem solving, and when I'm not swearing at my PC because my lambda fun
 ### Currently Working On
 [Glasswall CDR Platform](https://docs.glasswall.com/v1/docs/about-cdrplatform-2-0)
 
-[Glasswall Constellations](https://docs.glasswall.com/docs/about-constellations)
+[Glasswall Constellations](https://docs.glasswall.com/docs/about-glasswall-constellations)
 
 ### My Links
 [LinkedIn](https://www.linkedin.com/in/ahewit/)<br/>
