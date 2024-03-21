@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I'm Adam Hewitt. I'm A Bachelor of Computer Science, and Full-Stack Cloud Developer.<br/>
+Hi! I'm Adam Hewitt. I'm software developer and team lead at a world-leading cyber security software company.
 <br/>
 I love problem solving, and when I'm not swearing at my PC because my lambda function won't deploy, or furiously debugging code at 2am, I wake up every day loving what I do.
 
