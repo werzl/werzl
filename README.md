@@ -18,9 +18,11 @@ Hi! I'm Adam Hewitt. I'm software developer and team lead at a world-leading cyb
 I love problem solving, and when I'm not swearing at my PC because my lambda function won't deploy, or furiously debugging code at 2am, I wake up every day loving what I do.
 
 ### Currently Working On
-[Glasswall CDR Platform](https://docs.glasswall.com/v1/docs/about-cdrplatform-2-0)
+[Glasswall Halo](https://docs.glasswall.com/docs/about-glasswall-halo)
 
 [Glasswall Constellations](https://docs.glasswall.com/docs/about-glasswall-constellations)
+
+[Glasswall Meteor](https://docs.glasswall.com/docs/about-glasswall-meteor)
 
 ### My Links
 [LinkedIn](https://www.linkedin.com/in/ahewit/)<br/>
