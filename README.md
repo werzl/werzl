@@ -17,8 +17,6 @@ Hi! I'm Adam Hewitt. I'm software developer and team lead at Glasswall
 ### Currently Working On
 [Glasswall Halo](https://docs.glasswall.com/docs/about-glasswall-halo)
 
-[Glasswall Meteor](https://docs.glasswall.com/docs/about-glasswall-meteor)
-
 ### My Links
 [LinkedIn](https://www.linkedin.com/in/ahewit/)<br/>
 [Twitter](https://twitter.com/Werzl)<br/>
